@@ -50,7 +50,6 @@
 
 #### 头像效果
 
-![](/images/readme//icon.gif)
 
 如果你只想要我博客里的头像效果，你只需要拿 deepindo.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 deepindo.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
 
@@ -59,7 +58,7 @@
 
 #### 博客首页   
 
-![](/images/readme//img4.png)   
+ 
 
 ***  
 
